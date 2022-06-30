@@ -15,7 +15,7 @@ everyday needs. My laptop is HP ProBook 430 G7.
 * Discord: [dreamscached#8192](https://discordapp.com/users/774497873894834189)
 * Telegram: [@dreamscached](https://t.me/dreamscached)
 * Keybase: [@dreamscached](https://keybase.io/dreamscached)
-* IRC: dreamscached at [chat.freenode.net](https://web.libera.chat) or [irc.libera.chat](https://webchat.freenode.net)
+* IRC: dreamscached at [chat.freenode.net](https://webchat.freenode.net) or [irc.libera.chat](https://web.libera.chat)
 
 🤑 If my work was impressing enough for you to want to support me financially,
 you can send me some funds here:
