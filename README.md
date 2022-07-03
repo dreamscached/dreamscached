@@ -11,7 +11,7 @@ help people with maintaining repositories with such things as Ren'Py games/mods.
 everyday needs. My laptop is HP ProBook 430 G7.
 
 🗨️ How to contact me:
-* E-mail: [dreamscache.d@gmail.com](mailto:dreamscache.d@gmail.com)
+* E-mail: [dreamscache.d@gmail.com](mailto:dreamscache.d@gmail.com) ([public key](https://keybase.io/dreamscached/pgp_keys.asc?fingerprint=ae39038b1919251725528100d09ed7e7a8598cf9))
 * Discord: [dreamscached#8192](https://discordapp.com/users/774497873894834189)
 * Telegram: [@dreamscached](https://t.me/dreamscached)
 * Keybase: [@dreamscached](https://keybase.io/dreamscached)
