@@ -1,11 +1,11 @@
 👋 Hi, @dreamscached here! Thanks for checking out my GitHub profile.
 
-🚶‍♂️ I'm 18 y.o. computer science student currently living in Czechia 🇨🇿 and 
-applying for IT majors at local universities.
+🚶‍♂️ I'm 18 y.o. computer science student currently living and studying in Czechia 🇨🇿.
 
 👨‍💻 I primarily develop and contribute to Go/Python/JVM projects, occasionally
 using JS/TS and Svelte for web development when I have ideas. Sometimes I
 help people with maintaining repositories with such things as Ren'Py games/mods.
+I'm also into various crypto- and P2P-based stuff, such as Bitcoin, IPFS and ZeroNet.
 
 💻 I use Arch Linux with KDE desktop as my primary OS both for work and for
 everyday needs. My laptop is HP ProBook 430 G7.
