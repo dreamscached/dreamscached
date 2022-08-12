@@ -12,7 +12,7 @@ everyday needs. My laptop is HP ProBook 430 G7.
 
 🗨️ How to contact me:
 * E-mail: [dreamscache.d@gmail.com](mailto:dreamscache.d@gmail.com) ([public key](https://keybase.io/dreamscached/pgp_keys.asc?fingerprint=ae39038b1919251725528100d09ed7e7a8598cf9))
-* Discord: <a href="https://discordapp.com/users/774497873894834189" title="This link is permanent and will always refer to my Discord profile, even in case I forgot to update my Discord tag on this page.">dreamscached#8192</a>
+* Discord: <a href="https://discordapp.com/users/774497873894834189" title="This link is permanent and will always refer to my Discord profile, even in case I forgot to update my Discord tag on this page.">dreamscached#0666</a>
 * Telegram: [@dreamscached](https://t.me/dreamscached)
 * Keybase: [@dreamscached](https://keybase.io/dreamscached)
 * IRC: dreamscached at [chat.freenode.net](https://webchat.freenode.net) or [irc.libera.chat](https://web.libera.chat)
