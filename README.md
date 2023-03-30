@@ -1,6 +1,6 @@
 👋 Hi, [@dreamscached](https://github.com/dreamscached) here! Thanks for checking out my GitHub profile.
 
-🚶‍♂️ I'm 18 y.o. computer science student currently living and studying in Czechia 🇨🇿
+🚶‍♂️ I'm 19 y.o. computer science student currently living and studying in Czechia 🇨🇿
 
 👨‍💻 I primarily develop and contribute to Go/Python/JVM projects, occasionally
 using JS/TS and Svelte for web development when I have ideas. Sometimes I
