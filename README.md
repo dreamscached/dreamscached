@@ -20,4 +20,4 @@ opportunities to grow and hone my skills.
 💶 If my projects (or any other work) helped you or impressed you in any way that you want to thank me, you 
 can leave a tip:
 * PayPal: [dreamscache.d@gmail.com](https://paypal.me/dreamscached)
-* Bitcoin: [`15VeCsrQmkd1cJFxLv7jk3327vtqJT4bh6`](https://www.blockchain.com/btc/address/15VeCsrQmkd1cJFxLv7jk3327vtqJT4bh6)
+* Bitcoin: [`15VeCsrQmkd1cJFxLv7jk3327vtqJT4bh6`](https://www.blockchain.com/btc/address/15VeCsrQmkd1cJFxLv7jk3327vtqJT4bh6) or [`1Md9N5Cgr1PXYusUvi7iEZcFC6ESFrKmqd`](https://www.blockchain.com/btc/address/1Md9N5Cgr1PXYusUvi7iEZcFC6ESFrKmqd)
