@@ -22,3 +22,4 @@ can leave a tip:
 * PayPal: [dreamscache.d@gmail.com](https://paypal.me/dreamscached)
 * Bitcoin: [`1Md9N5Cgr1PXYusUvi7iEZcFC6ESFrKmqd`](https://www.blockchain.com/btc/address/1Md9N5Cgr1PXYusUvi7iEZcFC6ESFrKmqd)
 * USDT: [`TKVbcpojXihG9TZLcpNXV2oVfj6L3ikZGS`](https://usdtscan.com/wallet_info_trc20?id=TKVbcpojXihG9TZLcpNXV2oVfj6L3ikZGS)
+* Or... hire me. Seriously.
