@@ -7,7 +7,7 @@ web development when I have ideas. I am interested in Linux system administratio
 both of which I am very eager to learn more about and gain more experience at, and I'm always looking for 
 opportunities to grow and hone my skills.
 
-💻 I use Arch Linux with KDE desktop as my primary OS both for work and for everyday needs. My laptop is HP ProBook 430 G7.
+💻 I use Arch<sup>btw</sup> Linux with KDE desktop as my primary OS both for work and for everyday needs. My laptop is Acer TravelMate X.
 
 🗨️ How to contact me:
 * I respond immediately
