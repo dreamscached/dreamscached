@@ -1,4 +1,4 @@
-👋 Hi, I'm [@dreamscached](https://github.com/dreamscached)! Thanks for checking out my GitHub profile.
+👋 Hi, I'm Herman! Thanks for checking out my GitHub profile.
 
 👨‍💻 I'm 22 y.o. computer science student currently living and studying in Czechia 🇨🇿
 
@@ -13,13 +13,13 @@ opportunities to grow and hone my skills.
 * I respond immediately
   - Discord: <a href="https://discordapp.com/users/774497873894834189" title="This link is permanent and will always refer to my Discord profile, even in case I forgot to update my Discord tag on this page.">@dreamscached</a>
   - Telegram: [@dreamscached](https://t.me/dreamscached)
-* I check periodically
-  - E-mail: [dreamscache.d@gmail.com](mailto:dreamscache.d@gmail.com) ([public key](https://keybase.io/dreamscached/pgp_keys.asc?fingerprint=ae39038b1919251725528100d09ed7e7a8598cf9))
+* I may take some time
+  - E-mail: [dreamscache.d@gmail.com](mailto:dreamscache.d@gmail.com) ([public key](https://keybase.io/dreamscached/pgp_keys.asc?fingerprint=ab7613d9579d2ec69f1a6620c112e979e0ed41ed))
 
 💶 If my projects (or any other work) helped you or impressed you in any way that you want to thank me, you 
 can leave a tip:
 * PayPal: [dreamscache.d@gmail.com](https://paypal.me/dreamscached)
-* Bitcoin: [`1Md9N5Cgr1PXYusUvi7iEZcFC6ESFrKmqd`](https://www.blockchain.com/btc/address/1Md9N5Cgr1PXYusUvi7iEZcFC6ESFrKmqd)
-* USDT: [`TKVbcpojXihG9TZLcpNXV2oVfj6L3ikZGS`](https://usdtscan.com/wallet_info_trc20?id=TKVbcpojXihG9TZLcpNXV2oVfj6L3ikZGS)
+* Bitcoin: [`bc1qsjtcutt7z8ntg9wwwnnusspgps0sqlllxx5fl7`](https://www.blockchain.com/btc/address/bc1qsjtcutt7z8ntg9wwwnnusspgps0sqlllxx5fl7)
+* USDC: [`0x7bcecb1eD9cF73D47A4ed05a77959769Ae630880`](https://etherscan.io/address/0x7bcecb1eD9cF73D47A4ed05a77959769Ae630880)
 
-P.S. Not up for hiring at the moment.
+P.S. Not open for hire at the moment.
