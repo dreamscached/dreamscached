@@ -18,7 +18,7 @@ opportunities to grow and hone my skills.
 
 💶 If my projects (or any other work) helped you or impressed you in any way that you want to thank me, you 
 can leave a tip:
-* PayPal: [dreamscache.d@gmail.com](https://paypal.me/dreamscached)
+* BuyMeACoffee: [@dreamscached](https://buymeacoffee.com/dreamscached)
 * Bitcoin: [`bc1qsjtcutt7z8ntg9wwwnnusspgps0sqlllxx5fl7`](https://www.blockchain.com/btc/address/bc1qsjtcutt7z8ntg9wwwnnusspgps0sqlllxx5fl7)
 * USDC: [`0x7bcecb1eD9cF73D47A4ed05a77959769Ae630880`](https://etherscan.io/address/0x7bcecb1eD9cF73D47A4ed05a77959769Ae630880)
 
