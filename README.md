@@ -1,6 +1,6 @@
 👋 Hi, I'm Herman! Thanks for checking out my GitHub profile.
 
-👨‍💻 I'm 22 y.o. computer science student currently living and studying in Czechia 🇨🇿
+👨‍💻 I'm 22 y.o. computer science student from Czechia 🇨🇿 currently getting my bachelor's degree and pursuing a career in TechOps as a junior infrastructure support engineer.
 
 👨‍💻 I primarily develop and contribute to Go/Python/JVM projects, occasionally using JS/TS and Svelte for 
 web development when I have ideas. I am interested in Linux system administration and software development, 
